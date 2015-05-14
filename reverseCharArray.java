@@ -1,4 +1,4 @@
-public class reverseCharArray {
+public class ReverseCharArray {
 
 	public static void reverse_words_in_char_array(char[] words) {
 		
